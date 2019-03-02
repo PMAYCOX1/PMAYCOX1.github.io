@@ -6,6 +6,6 @@
 + We are now stationed in Iwakuni, Japan
 + Going to school to pursue my degree in Psychology
 + I hope to be able to work for the VA one day in order to help veterans
-+ ![Kintai bridge](https://pixels.com/featured/kintai-bridge-iwakuni-japan-pt-andy-smy.html.jpg)
++ ![Kintai bridge](https://upload.wikimedia.org/wikipedia/commons/7/7f/Kintai_bridge.jpg)
 + <https://www.japanvisitor.com/japan-city-guides/iwakuni-guide>
 + <http://www.worldfortravel.com/2015/09/15/the-kintai-bridge-lwakuni-japan/>
