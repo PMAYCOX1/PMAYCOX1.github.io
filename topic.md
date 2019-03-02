@@ -6,6 +6,6 @@
 #### With microsoft excel, I was able to create a budget that my family and I can use in a different manner. It was almost like what I knew but much faster and advanced. 
 #### With microsoft word, I was able to create a table that allowed me to see that I can use certain headings to automatically create a font, and size on its own. 
 #### With microsoft access, I was able to create databases and link them togwther in a way that they can work together, almost like an information tree. 
-[Microsoft Word logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Word_2013_logo_with_background.png)
-[Microsot Excel logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg)
-[index.md]()
+#### [Microsoft Word logo](https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Word_2013_logo_with_background.png)
+#### [Microsot Excel logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg)
+#### [index.md](https://github.com/PMAYCOX1/PMAYCOX1.github.io/blob/master/index.md)
